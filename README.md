@@ -1,1 +1,1 @@
-Code that produces the images from the post [insert link here]
+Code that produces the images from the post [insert link here]. Contains ipython notebooks that solve linear control problems with additional structure demands on the control using Reinforcement Learning.
